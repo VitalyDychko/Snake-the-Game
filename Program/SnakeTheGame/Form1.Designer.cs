@@ -42,6 +42,7 @@
             this.label3 = new System.Windows.Forms.Label();
             this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
+            this.button3 = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).BeginInit();
@@ -60,6 +61,7 @@
             // 
             // panel1
             // 
+            this.panel1.Controls.Add(this.button3);
             this.panel1.Controls.Add(this.comboBox1);
             this.panel1.Controls.Add(this.checkBox2);
             this.panel1.Controls.Add(this.checkBox1);
@@ -75,7 +77,7 @@
             this.panel1.Location = new System.Drawing.Point(13, 13);
             this.panel1.Margin = new System.Windows.Forms.Padding(4);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(327, 309);
+            this.panel1.Size = new System.Drawing.Size(312, 357);
             this.panel1.TabIndex = 3;
             // 
             // comboBox1
@@ -234,11 +236,26 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
+            // button3
+            // 
+            this.button3.Image = global::SnakeTheGame.Properties.Resources.help;
+            this.button3.Location = new System.Drawing.Point(40, 300);
+            this.button3.Margin = new System.Windows.Forms.Padding(4);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(258, 41);
+            this.button3.TabIndex = 9;
+            this.button3.Text = "Помощь";
+            this.button3.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.button3.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(353, 335);
+            this.BackColor = System.Drawing.Color.White;
+            this.ClientSize = new System.Drawing.Size(331, 383);
             this.Controls.Add(this.panel1);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
@@ -272,8 +289,7 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.ComboBox comboBox1;
-
-
+        private System.Windows.Forms.Button button3;
     }
 }
 
