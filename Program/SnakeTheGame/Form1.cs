@@ -2,7 +2,7 @@
 using System.Windows.Forms;
 using Maxx53.Games;
 
-namespace SnakeTheGame
+namespace MiloSnake
 {
     public partial class Form1 : Form
     {

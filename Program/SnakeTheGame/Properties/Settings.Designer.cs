@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace SnakeTheGame.Properties {
+namespace MiloSnake.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
