@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u0413\u041B\u0410\u0412\u041D\u0410\u042F \u0420\u0410\u0411\u041E\u0422\u0410\\scr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B32E43E-C705-4A75-9B56-87103E5C6BDB}|MiloSnake\\MiloSnake.csproj|e:\\\u0433\u043B\u0430\u0432\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\scr\\milosnake\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B32E43E-C705-4A75-9B56-87103E5C6BDB}|MiloSnake\\MiloSnake.csproj|solutionrelative:milosnake\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B32E43E-C705-4A75-9B56-87103E5C6BDB}|MiloSnake\\MiloSnake.csproj|e:\\\u0433\u043B\u0430\u0432\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\scr\\milosnake\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B32E43E-C705-4A75-9B56-87103E5C6BDB}|MiloSnake\\MiloSnake.csproj|solutionrelative:milosnake\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B32E43E-C705-4A75-9B56-87103E5C6BDB}|MiloSnake\\MiloSnake.csproj|e:\\\u0433\u043B\u0430\u0432\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\scr\\milosnake\\snakegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B32E43E-C705-4A75-9B56-87103E5C6BDB}|MiloSnake\\MiloSnake.csproj|solutionrelative:milosnake\\snakegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B32E43E-C705-4A75-9B56-87103E5C6BDB}|MiloSnake\\MiloSnake.csproj|e:\\\u0433\u043B\u0430\u0432\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\scr\\milosnake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B32E43E-C705-4A75-9B56-87103E5C6BDB}|MiloSnake\\MiloSnake.csproj|solutionrelative:milosnake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B32E43E-C705-4A75-9B56-87103E5C6BDB}|MiloSnake\\MiloSnake.csproj|e:\\\u0433\u043B\u0430\u0432\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\scr\\milosnake\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B32E43E-C705-4A75-9B56-87103E5C6BDB}|MiloSnake\\MiloSnake.csproj|solutionrelative:milosnake\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B32E43E-C705-4A75-9B56-87103E5C6BDB}|MiloSnake\\MiloSnake.csproj|e:\\\u0433\u043B\u0430\u0432\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\scr\\milosnake\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B32E43E-C705-4A75-9B56-87103E5C6BDB}|MiloSnake\\MiloSnake.csproj|solutionrelative:milosnake\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SnakeTheGame||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B32E43E-C705-4A75-9B56-87103E5C6BDB}|MiloSnake\\MiloSnake.csproj|e:\\\u0433\u043B\u0430\u0432\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\scr\\milosnake\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\\u0413\u041B\u0410\u0412\u041D\u0410\u042F \u0420\u0410\u0411\u041E\u0422\u0410\\scr\\MiloSnake\\Form1.cs",
+              "RelativeDocumentMoniker": "MiloSnake\\Form1.cs",
+              "ToolTip": "E:\\\u0413\u041B\u0410\u0412\u041D\u0410\u042F \u0420\u0410\u0411\u041E\u0422\u0410\\scr\\MiloSnake\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "MiloSnake\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:07:53.771Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "E:\\\u0413\u041B\u0410\u0412\u041D\u0410\u042F \u0420\u0410\u0411\u041E\u0422\u0410\\scr\\MiloSnake\\Utils.cs",
+              "RelativeDocumentMoniker": "MiloSnake\\Utils.cs",
+              "ToolTip": "E:\\\u0413\u041B\u0410\u0412\u041D\u0410\u042F \u0420\u0410\u0411\u041E\u0422\u0410\\scr\\MiloSnake\\Utils.cs",
+              "RelativeToolTip": "MiloSnake\\Utils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:07:47.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SnakeGame.cs",
+              "DocumentMoniker": "E:\\\u0413\u041B\u0410\u0412\u041D\u0410\u042F \u0420\u0410\u0411\u041E\u0422\u0410\\scr\\MiloSnake\\SnakeGame.cs",
+              "RelativeDocumentMoniker": "MiloSnake\\SnakeGame.cs",
+              "ToolTip": "E:\\\u0413\u041B\u0410\u0412\u041D\u0410\u042F \u0420\u0410\u0411\u041E\u0422\u0410\\scr\\MiloSnake\\SnakeGame.cs",
+              "RelativeToolTip": "MiloSnake\\SnakeGame.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:07:35.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\\u0413\u041B\u0410\u0412\u041D\u0410\u042F \u0420\u0410\u0411\u041E\u0422\u0410\\scr\\MiloSnake\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "MiloSnake\\Form1.Designer.cs",
+              "ToolTip": "E:\\\u0413\u041B\u0410\u0412\u041D\u0410\u042F \u0420\u0410\u0411\u041E\u0422\u0410\\scr\\MiloSnake\\Form1.Designer.cs",
+              "RelativeToolTip": "MiloSnake\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:07:11.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\\u0413\u041B\u0410\u0412\u041D\u0410\u042F \u0420\u0410\u0411\u041E\u0422\u0410\\scr\\MiloSnake\\Form1.cs",
+              "RelativeDocumentMoniker": "MiloSnake\\Form1.cs",
+              "ToolTip": "E:\\\u0413\u041B\u0410\u0412\u041D\u0410\u042F \u0420\u0410\u0411\u041E\u0422\u0410\\scr\\MiloSnake\\Form1.cs",
+              "RelativeToolTip": "MiloSnake\\Form1.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowHAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:06:54.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SnakeTheGame",
+              "DocumentMoniker": "E:\\\u0413\u041B\u0410\u0412\u041D\u0410\u042F \u0420\u0410\u0411\u041E\u0422\u0410\\scr\\MiloSnake\\SnakeTheGame.csproj",
+              "RelativeDocumentMoniker": "MiloSnake\\SnakeTheGame.csproj",
+              "ToolTip": "E:\\\u0413\u041B\u0410\u0412\u041D\u0410\u042F \u0420\u0410\u0411\u041E\u0422\u0410\\scr\\MiloSnake\\SnakeTheGame.csproj",
+              "RelativeToolTip": "MiloSnake\\SnakeTheGame.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-19T17:06:44.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u0413\u041B\u0410\u0412\u041D\u0410\u042F \u0420\u0410\u0411\u041E\u0422\u0410\\scr\\MiloSnake\\Program.cs",
+              "RelativeDocumentMoniker": "MiloSnake\\Program.cs",
+              "ToolTip": "E:\\\u0413\u041B\u0410\u0412\u041D\u0410\u042F \u0420\u0410\u0411\u041E\u0422\u0410\\scr\\MiloSnake\\Program.cs",
+              "RelativeToolTip": "MiloSnake\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:05:43.869Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
