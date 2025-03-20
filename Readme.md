@@ -61,5 +61,5 @@
 1. Зайдите в любую папку в вашем проводнике и введите cmd заместо пути.
 2. Клонируйте репозиторий:
    ```cmd
-   git clone git@github.com:VitalyDychko/Zmeyka.git
+   git clone git@github.com:VitalyDychko/Snake-the-Game.git
    ```
